@@ -11,9 +11,8 @@ Bài tập cá nhân môn Trí Tuệ Nhân Tạo Nâng Cao _ Bùi Minh Trung _ M
   - `ex01_AISearch_BuiMinhTrung_3124720074_.pdf`
 
 ### 2. `BT_CSP_CayGame`
-- **Đề bài & Lời giải tham khảo:**
+- **Đề bài:**
   - `BT02 - CSP va Cay Game.pdf`
-
 - **Bài nộp:**
   - `ex02_CSPGame_BuiMinhTrung_3124720074.pdf`
 

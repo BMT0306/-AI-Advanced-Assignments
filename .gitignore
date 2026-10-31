@@ -1,0 +1,14 @@
+# Ignore everything by default
+/*
+
+# Whitelist tracked files and folders
+!/.gitignore
+!/README.md
+
+# Assignment directories
+!/BT_TimKiem_AI/
+!/BT_TimKiem_AI/**
+!/BT_CSP_CayGame/
+!/BT_CSP_CayGame/**
+!/BT_CayGame/
+!/BT_CayGame/**

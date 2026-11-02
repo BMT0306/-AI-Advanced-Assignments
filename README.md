@@ -21,3 +21,18 @@ Bài tập cá nhân môn Trí Tuệ Nhân Tạo Nâng Cao _ Bùi Minh Trung _ M
   - `BT03 - Cay Game.pdf`
 - **Bài nộp:**
   - `ex03_AIGame_BuiMinhTrung_3124720074.pdf`
+
+### 4. `BT_TriThuc_SuyLuan`
+- **Đề bài:**
+  - `BT04 - Bieu dien tri thuc va suy luan.pdf`
+- **Bài nộp:**
+  - `ex04__BuiMinhTrung__3124720074.pdf`
+
+### 5. `BT_05`
+- **Đề bài:**
+  - `BT05 - Lap ke hoach va do thi ke hoach.pdf`
+  - `BT05a - Classical Planning.pdf`
+- **Bài nộp:**
+  - `ex05_BuiMinhTrung_3124720074.pdf`
+  - `ex05a__BuiMinhTrung__3124720074.pdf`
+

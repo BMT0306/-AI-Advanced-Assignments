@@ -36,3 +36,10 @@ Bài tập cá nhân môn Trí Tuệ Nhân Tạo Nâng Cao _ Bùi Minh Trung _ M
   - `ex05_BuiMinhTrung_3124720074.pdf`
   - `ex05a__BuiMinhTrung__3124720074.pdf`
 
+### 6. `BT_06`
+- **Đề bài:**
+  - `BT06 - Xac suat Bayes va Ra quyet dinh.pdf`
+- **Bài nộp:**
+  - `ex06_BuiMinhTrung_3124720074.pdf`
+
+

@@ -16,3 +16,9 @@
 !/BT_TriThuc_SuyLuan/**
 !/BT_05/
 !/BT_05/**
+!/BT_06/
+!/BT_06/**
+BT_06/*.py
+BT_06/*.docx
+BT_06/*.png
+BT_06/*.ps1
